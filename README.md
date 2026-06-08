@@ -55,4 +55,4 @@ Learned data visualization, KPI tracking, dashboard design, and business insight
 
 
 ## Dashboard Preview<br>
-![Mobile Sales Dashboard](dashboard_1.png)
+![Mobile Sales Dashboard](Dashboard_1.png)
