@@ -1,5 +1,5 @@
 # Sales-Revenue-Analysis
-Performed Operations and visuals for Kaggle dataset of Sales Data
+Performed Operations and visuals for the Kaggle dataset of Sales Data
 
 ---
 <h1>📊 Sales & Revenue Analysis Dashboard | Power BI  <br></h1>
@@ -51,3 +51,8 @@ Developed an interactive Power BI dashboard to analyze sales and revenue data, h
 •Expected Outcome<br>
 
 Learned data visualization, KPI tracking, dashboard design, and business insight generation using Power BI and Power Query.
+
+
+
+## Dashboard Preview<br>
+![Mobile Sales Dashboard](dashboard_1.png)
